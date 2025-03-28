@@ -8,3 +8,7 @@ This is github markdown language in GitHub
 var myVar = "Hello, world!";
 let user = 'John Doe';
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
